@@ -1,0 +1,1 @@
+my private dwm status written with golang
